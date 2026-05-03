@@ -133,3 +133,5 @@ Mendieta’s *Siluetas* remain among the most innovative and influential example
 \[21\] See, for instance, Leticia Alvarado, *Abject Performances: Aesthetic Strategies in Latino Cultural Production* (Durham: Duke University Press, 2018), 26.
 
 \[22\] Coco Fusco, “ [That Time Carl Andre Wrote Me a Letter](https://hyperallergic.com/876490/that-time-carl-andre-wrote-coco-fusco-a-letter/),” *Hyperallergic* (March 7, 2024).
+
+visto
