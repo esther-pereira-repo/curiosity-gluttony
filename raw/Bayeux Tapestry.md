@@ -4,7 +4,7 @@ source: "https://en.wikipedia.org/wiki/Bayeux_Tapestry"
 author:
   - "[[Wikipedia]]"
 published: 2002-04-17
-created: 2026-05-02
+created: 2026-05-03
 description:
 tags:
   - "clippings"
@@ -292,7 +292,7 @@ Other embroideries more loosely inspired by it include the [Hastings Embroidery]
 
 Japanese [anime](https://en.wikipedia.org/wiki/Anime "Anime") director [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki "Hayao Miyazaki") was inspired by the tapestry during the creation of his [manga](https://en.wikipedia.org/wiki/Manga "Manga") and film *[Nausicaä of the Valley of the Wind](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_\(manga\) "Nausicaä of the Valley of the Wind (manga)")* (1984). The legendary tapestry tells the story of a chosen one who will save the earth.[^100]
 
-A number of films have used sections of the tapestry in their opening credits or closing titles, including Disney's *[Bedknobs and Broomsticks](https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks "Bedknobs and Broomsticks")*, Anthony Mann's *[El Cid](https://en.wikipedia.org/wiki/El_Cid_\(film\) "El Cid (film)")*, Franco Zeffirelli's *[Hamlet](https://en.wikipedia.org/wiki/Hamlet_\(1990_film\) "Hamlet (1990 film)")*, Frank Cassenti's *[La Chanson de Roland](https://en.wikipedia.org/wiki/The_Song_of_Roland_\(film\) "The Song of Roland (film)")*, Kevin Reynolds' *[Robin Hood: Prince of Thieves](https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves "Robin Hood: Prince of Thieves")*, and Richard Fleischer's *[The Vikings](https://en.wikipedia.org/wiki/The_Vikings_\(film\) "The Vikings (film)")*.[^101]
+A number of films have used sections of the tapestry in their opening credits or closing titles, including Anthony Mann's *[El Cid](https://en.wikipedia.org/wiki/El_Cid_\(film\) "El Cid (film)")*, Franco Zeffirelli's *[Hamlet](https://en.wikipedia.org/wiki/Hamlet_\(1990_film\) "Hamlet (1990 film)")*, Frank Cassenti's *[La Chanson de Roland](https://en.wikipedia.org/wiki/The_Song_of_Roland_\(film\) "The Song of Roland (film)")*, Kevin Reynolds' *[Robin Hood: Prince of Thieves](https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves "Robin Hood: Prince of Thieves")*, and Richard Fleischer's *[The Vikings](https://en.wikipedia.org/wiki/The_Vikings_\(film\) "The Vikings (film)")*. [Disney](https://en.wikipedia.org/wiki/Walt_Disney "Walt Disney") 's [musical film](https://en.wikipedia.org/wiki/Musical_film "Musical film") *[Bedknobs and Broomsticks](https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks "Bedknobs and Broomsticks")* notably does not feature photography of the actual historic work, but instead opens with a stylized scrolling sequence that loosely chronicles the general plot of that musical in crude, imaginative, and whimsical style (accompanied by an overture that draws on medieval tropes and folk-inspired constructions from Great Britain).[^101]
 
 The tapestry is referred to in [Tony Kushner](https://en.wikipedia.org/wiki/Tony_Kushner "Tony Kushner") 's play *[Angels in America](https://en.wikipedia.org/wiki/Angels_in_America "Angels in America")*. The apocryphal account of Queen Matilda's creation of the tapestry is used, perhaps in order to demonstrate that Louis, one of the main characters, holds himself to mythological standards.[^102]
 

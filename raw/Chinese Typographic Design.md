@@ -4,7 +4,7 @@ source: "https://medium.com/@Hynuza/typographic-design-in-asian-language-4bb1035
 author:
   - "[[Hynuza]]"
 published: 2015-05-22
-created: 2026-05-02
+created: 2026-05-03
 description: "Hynuza highlighted"
 tags:
   - "clippings"
