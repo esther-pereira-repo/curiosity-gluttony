@@ -3,7 +3,7 @@ import subprocess
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-VAULT_PATH = "."  # raiz do vault
+VAULT_PATH = "."
 RAW_PATH = "raw"
 SCHEMA_FILE = "schema.md"
 MODEL = "deepseek/deepseek-chat"
@@ -26,7 +26,7 @@ class RawFolderHandler(FileSystemEventHandler):
 
         filepath = event.src_path.replace("\\", "/")
         print(f"\n📄 Novo arquivo detectado: {filepath}")
-        print("⏳ Aguardando 3 segundos para garantir que o arquivo foi salvo...")
+        print("⏳ Aguardando 3 segundos...")
         time.sleep(3)
 
         print("🤖 Iniciando Aider...")
@@ -35,11 +35,13 @@ class RawFolderHandler(FileSystemEventHandler):
             "--model", MODEL,
             "--no-git",
             "--yes",
-            "--message", f"/add {filepath}\n/add {SCHEMA_FILE}\n{PROMPT}",
+            "--file", filepath,
+            "--file", SCHEMA_FILE,
+            "--message", PROMPT,
         ]
 
         subprocess.run(command, cwd=VAULT_PATH)
-        print(f"✅ Processamento concluído para {filepath}")
+        print(f"✅ Concluído: {filepath}")
 
 if __name__ == "__main__":
     print("👀 Monitorando a pasta raw/ — pode começar a clicar!")
