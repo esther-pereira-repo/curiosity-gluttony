@@ -3,7 +3,7 @@ title: "Art Monthly : Article : Art/Writing – John Douglas Millar on why exper
 source: "https://www.artmonthly.co.uk/magazine/site/article/art-writing-by-john-douglas-millar-september-2011"
 author:
 published:
-created: 2026-05-02
+created: 2026-05-03
 description: "Art Monthly is the UK's leading contemporary art magazine."
 tags:
   - "clippings"

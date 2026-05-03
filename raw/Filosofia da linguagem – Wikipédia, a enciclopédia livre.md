@@ -3,7 +3,7 @@ title: "Filosofia da linguagem – Wikipédia, a enciclopédia livre"
 source: "https://pt.wikipedia.org/wiki/Filosofia_da_linguagem"
 author:
   - "[[Wikipedia]]"
-published: 2005-02-12
+published:
 created: 2026-05-03
 description:
 tags:
