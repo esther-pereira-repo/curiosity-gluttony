@@ -1,41 +1,58 @@
-
-import sys
+import time
 import subprocess
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-import time
-import os
 
-SCHEMA_PATH = "schema.md"
-RAW_DIR = "raw"
-WIKI_DIR = "wiki"
+VAULT_PATH = "."  # raiz do vault
+RAW_PATH = "raw"
+SCHEMA_FILE = "schema.md"
+MODEL = "deepseek/deepseek-chat"
 
-class RawFileHandler(FileSystemEventHandler):
-    def on_modified(self, event):
+PROMPT = """Leia os arquivos indicados e o schema.md.
+Crie as páginas wiki apropriadas nas pastas corretas conforme o schema.md:
+- Pessoas em wiki/people/
+- Obras em wiki/works/
+- Conceitos abstratos em wiki/concepts/
+- Movimentos e épocas em wiki/periods/
+- Resumo da fonte em wiki/sources/
+Adicione backlinks entre todas as páginas relacionadas."""
+
+class RawFolderHandler(FileSystemEventHandler):
+    def on_created(self, event):
         if event.is_directory:
             return
         if not event.src_path.endswith(".md"):
             return
 
-        raw_file = event.src_path
-        filename = os.path.basename(raw_file)
-        wiki_file = os.path.join(WIKI_DIR, filename)
+        filepath = event.src_path.replace("\\", "/")
+        print(f"\n📄 Novo arquivo detectado: {filepath}")
+        print("⏳ Aguardando 3 segundos para garantir que o arquivo foi salvo...")
+        time.sleep(3)
 
-        print(f"Arquivo atualizado: {filename}. Sincronizando com a wiki...")
+        print("🤖 Iniciando Aider...")
+        command = [
+            "aider",
+            "--model", MODEL,
+            "--no-git",
+            "--yes",
+            "--message", f"/add {filepath}\n/add {SCHEMA_FILE}\n{PROMPT}",
+        ]
 
-        prompt = f"Leia o arquivo {raw_file} e o schema em {SCHEMA_PATH}. Crie ou atualize o arquivo {wiki_file} seguindo as regras do schema."
-
-        subprocess.run(["aider", "--message", prompt, raw_file, SCHEMA_PATH, wiki_file])
+        subprocess.run(command, cwd=VAULT_PATH)
+        print(f"✅ Processamento concluído para {filepath}")
 
 if __name__ == "__main__":
-    event_handler = RawFileHandler()
+    print("👀 Monitorando a pasta raw/ — pode começar a clicar!")
+    print("Pressione Ctrl+C para parar.\n")
+
     observer = Observer()
-    observer.schedule(event_handler, path=RAW_DIR, recursive=False)
+    observer.schedule(RawFolderHandler(), path=RAW_PATH, recursive=False)
     observer.start()
-    print("Monitorando a pasta raw... (Ctrl+C para parar)")
+
     try:
         while True:
             time.sleep(1)
     except KeyboardInterrupt:
         observer.stop()
+
     observer.join()
