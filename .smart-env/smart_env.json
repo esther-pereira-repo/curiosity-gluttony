@@ -80,6 +80,6 @@
     "template_after": "</context>"
   },
   "embedding_models": {
-    "default_model_key": "transformers#1777705937354"
+    "default_model_key": "transformers#1777872217446"
   }
 }
