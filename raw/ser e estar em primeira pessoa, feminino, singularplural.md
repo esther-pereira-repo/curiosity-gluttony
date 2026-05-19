@@ -1,0 +1,64 @@
+---
+title: "ser e estar em primeira pessoa, feminino, singular/plural"
+source: "https://femeaferoz.substack.com/p/ser-e-estar-em-primeira-pessoa-feminino"
+author:
+  - "[[fêmea feroz \ ana c.]]"
+published: 2026-05-13
+created: 2026-05-18
+description: "[rugido #4] movimento de mulheres x mulheres em movimento"
+tags:
+  - "clippings"
+---
+![](https://substackcdn.com/image/fetch/$s_!iF1i!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20815026-5af2-4035-a73e-dad47fc1669d_640x637.jpeg)
+
+“abigail decided it was time to try”, por Amanda Blake
+
+Estive longe um tempão, eu sei. O último ciclo da minha vida não tem sido nada fácil.
+
+Tudo começou numa trama de acontecimentos, um emaranhado de fios que me paralisaram de muitas formas. Desde o trabalho até a minha vida familiar, as angústias foram muitas. Acho que muitos desconfortos já vinham de antes de 2025, ano em que sinto que morri (ou cheguei muito perto de). Não escondo mais os sentimentos porque eles são uma peça fundamental do que eu sou e, portanto do que penso e trago para esse espaço.
+
+Mas venho aqui pra falar, sobretudo, sobre mulheres e sobre ser mulher. Existe um movimento de mulheres como vemos, condensado em posts, podcasts, espaços públicos, discussões supostamente ampliadas alimentadas pelo algoritmo; e existem mulheres em movimento, no backstage, na parte menos glamourosa das redes, atravessadas pelas suas próprias realidades, passados, presentes e expectativas de futuro. É por elas (por nós) que acordamos todos os dias e escolhemos nos envolver. Não é?
+
+Olho no espelho e vejo uma mulher jovem, mas não tanto. Esse ano a crise bateu fortíssima. Minha cara lavada e besuntada em protetor solar disfarça o que a minha cabeça não consegue esconder: cansaço, condições de trabalho exaustivas e insegurança laboral, donadecasificação compulsória por trabalho remoto (como é possível que ninguém ainda tenha falado sobre isso?) e, sobretudo, uma precarização absurda das relações pessoais. Afinal, não são todas as relações pessoais? Dizem que há relações de trabalho, há relações acadêmicas, há relações de ativismo e lá, jogadas para escanteio, há relações pessoais. Esse objeto “menor” em nosso imaginário feminista. Menor ou menorizado?
+
+Temos a impressão de termos descoberto o patriarcado dia desses, de termos descobertos que nossas relações são afetadas pelo patriarcado dia desses. De repente nos pegamos deixando essa esfera da vida de lado como se elas fossem uma herança de um regime de violência que nos esforçamos tanto para depor. Um lembrete de violências empurradas goela abaixo, limitações, castrações cotidianas. Não é que não sejam. São. Mas não são *apenas* isso. Eis a realidade crua, com toda sua contradição, a nos puxar o tapete.
+
+Não falamos o bastante sobre isso. Não falamos o bastante sobre o adoecimento massificado que tem nos atravessado enquanto seres humanos e, sobretudo, enquanto mulheres. Não temos falado o bastante sobre a forma como tratamos as outras mulheres, aquelas por quem supostamente lutamos. Eu e você.
+
+A mulher real é bastante diferente da mulher idealizada pelo feminismo.
+
+A mulher vitimizada pelo patriarcado é uma personagem circular que está em uma condição de vítima em razão de sua ignorância. O fruto do conhecimento é aquilo que trará sua liberdade, tornando-a uma versão melhor de si para si mesma e para a utopia feminista. Ela é o ideal do qual as mulheres feministas partimos em nossas próprias narrativas pessoais. O passado idílico dentro da caverna de Platão que tem a vida transformada após a descoberta do mundo como ele é. Um passado circular para um presente circular.
+
+Mas a mulher real é uma personagem complexa. Ela carrega em si, ao mesmo tempo, a condição de vítima de uma estrutura milenar, arquitetada para aprisionar mulheres na função reprodutiva; e a condição de agente, uma condição que pode ser, por sua vez, dúbia: agente da libertação própria/alheia e agente do aprisionamento próprio/alheio. E podemos, pasmem, ser agentes de libertação e de aprisionamento ao mesmo tempo. E, para além (*não ao contrário, não em oposição*) do escopo das relações estruturais (ou seja, aquelas que compreendemos à luz do patriarcado, do capitalismo, do racismo, por exemplo), ainda somos agentes enquanto criaturas animais corporificadas e dotadas de consciência e subjetividade, experimentando o mundo e a vida pela primeira e última vez (constatações que aliviam e doem).
+
+Ser agente pressupõe a capacidade de receber um estímulo, absorver um estímulo e decidir reagir ou não a um estímulo. Às vezes escolher é tão naturalizado, enraizado em nós, que esquecemos que escolhemos. Escolher é uma capacidade que aparentemente não cabe àquelas que estão (ou tomam) a posição de vítimas. Como ser vítima e ao mesmo tempo ter consciência de suas escolhas? Como separar aquilo que, enquanto mulher, você escolheu *mais ou menos* daquilo que você escolheu pra *valer*?
+
+De um lado, um patriarcado que me cria para ser uma mulher pequena, uma dona de casa abnegada, uma mãe fértil, mas estéril em complexidade, a serviçal pessoal de um homem. De um outro lado, palavras que afirmam que nenhuma escolha remotamente relacionada ao amor e à maternidade, por exemplo, são escolhas *de verdade*; que a maternidade é compulsória, que o heterossexualidade é compulsória, que nosso prazer já foi tão utilizado contra nós que agora só resta esquecer dele; que em cada esquina mora o perigo. Atrás, um passado que sustenta cada umas das hipóteses. Já à frente, no espelho, dilemas tão diversos quanto nossas digitais. Nunca esqueço que, enquanto mulher, estou aqui experimentando o mundo e a vida pela primeira vez. Eu: futuro das minhas antepassados, passado das minhas descendentes, presente de mim e minhas contemporâneas. Eu, aqui, sem saber que direção tomar porque esqueço, por vezes, que posso escolher.
+
+Uma mulher com caráter fragmentário não é uma pária, ela é apenas uma mulher real. E ela não está longe de nós, feministas esclarecidas cheias de leituras de mundo em terceira pessoa. Ela está ali no espelho pequeno do meu banheiro. Comprei por impulso do tamanho errado porque eu queria muito olhar minha própria cara. Hoje olho pra ela e não sei se gosto tanto assim. Achei que fosse culpa do espelho; que ele limitava minha visão sobre mim mesma. Parece mais fácil mudar o espelho do que mudar a cara. Fico com ele e entendo que preciso amadurecer mais.
+
+E a verdade é que lidamos todos os dias com mulheres reais, extremamente reais. Mães solteiras, mães casadas, mães divorciadas, mães viúvas. Mulheres sem filhos solteiras, namorando, casadas, divorciando, celibatárias. As que amam ser mães e as arrependidas. Aquelas que não querem mais se relacionar com homens, aquelas que ainda querem (seja pela esperança ou pelo curso natural das relações), aquelas que não conseguem, mas gostariam. Mulheres que amam seus companheiros, mulheres que não tem força para terminar relações, mulheres que não sabem se o que as faz ficar é o sentimento ou o patriarcado. Mulheres que amam mulheres *a valer*, mulheres que amam mulheres *até a página dois*, e mulheres que amam mulheres, *contanto que sejam exatamente aquilo que elas querem que sejam*.
+
+Mesmo em nossas maiores semelhanças, presenteadas pelo corpo em que nascemos, somos profundamente diferentes. E a diferença assusta. Oferece o risco do não pertencimento. Abre brecha para o pelote na massa do bolo, para o tufo de chocolate em pó do meu brigadeiro redondo e perfeito, para o fundo sem tempero na salada que misturei de qualquer jeito. A diferença é um abismo aterrorizante quando só sabemos andar para frente ou para trás. Quando abrimos o corpo e o coração para o que é menos óbvio, o jogo muda. Desafio é caminhar a rebarba de nossas formações rochosas, tropeçar em pedregulhos e encontrar caminhos para chegar ao outro lado. Para dar a volta, chegar novamente ao começo da jornada e, ainda assim, sermos pessoas diferentes do que éramos, mesmo que profundamente iguais.
+
+Acredito piamente no poder da gentileza. Não (somente) porque fui condicionada a ser gentil porque sou mulher. Escolhi e escolho a gentileza consciente no meu cotidiano, ainda que as pessoas que eu mais amo conheçam a maior parte do pior de mim. Acho também que esperamos tanto nos deparar com as mocinhas que queremos salvar em cima de nossos cavalos brancos que ignoramos mulheres como elas são, como elas sentem. Ignoramos demandas que as afetam no cotidiano fingindo que elas não existem. Estabelecemos cruelmente ideais inalcançáveis de existência em uma vida que já é tão curta e única. Alimentamos paranoias e medos em corpos e mentes que já enfrentam muitos desafios. Ignoramos que a mesma donzela esperando ser salva está dentro de nós, subjetivamente mal elaborada, tão mal elaborada que a perseguimos em identificações projetivas que colocamos em outras.
+
+Não deveríamos estar fazendo o contrário?
+
+Não é com tom de reprovação que afirmo que quase nenhuma mulher que conheci durante esses anos, *até aquelas com quem ativamente construí projetos*, se preocupou comigo durante o último ciclo. Digo que não é com tom de reprovação porque eu também não me preocupei, ou ao menos não consegui me mobilizar para correr atrás dessas relações. Seja por não conseguir ou também por não querer. Minha saúde física se degradou e hoje felizmente estou melhor e mais forte. Fui atravessada por perdas que me tiraram a vontade de viver, a qual aos poucos tenho tentado recuperar. Me distanciei de um projeto em que fui ativa por quase dois anos de forma incansável, onde atingi uma pá de gente, e isso não me impediu de me tornar “mais uma que não aguentou o tranco”. Alguém que teve utilidade e depois deixou de ter. *Uma mulher* que teve uma utilidade e depois deixou de ter. Uma mulher que teve uma utilidade para outras mulheres e depois deixou de ter. Ainda rio das que utilizam meu perfil como repositório de reels, depois de tanto tempo, rs.
+
+Então, me digam, como estamos nos tratando fora dos holofotes? Estamos nos tratando com gentileza, respeito e assertividade, buscando fortalecer nossos vínculos e sermos redes de apoio reais, darmos uma possibilidade outra de vida às que estão conosco e às virão depois de nós? Ou estamos nos tratando com cinismo, falsidade, buscando inserir outras mulheres num jogo problemático de ganha-ganha onde uma mulher que não serve mais deixa de ter importância; onde nosso objetivo é mostrar que somos melhores, mais puras ideologicamente, com menos falhas de caráter, nos vangloriando da persona circular que mostramos para o mundo? (*Pois eu sei que nenhuma de nós é uma personagem circular*) Estou nessa conta, não sou santa.
+
+Se escrevo sobre mim é porque cansei de escrever sobre realidades que não vivi em primeira pessoa. As dores da minha classe, contadas por outras, abrem minha compreensão sobre o mundo, mas não devem me impedir de compreender a mim mesma. Sei que há muitas mulheres que dão e deram a vida para que falássemos de nós em primeira pessoa enquanto insistimos de maneira teimosa em reinventar a roda. Hoje entendo Virginia Woolf mais do que há dois anos. Por isso decidi mudar um pouco o formato desse portal. Espero não falar mais sobre nenhuma discussão pública ampla, sobre nenhuma notícia, sobre nenhuma desgraça pública.
+
+Estou de saco cheio de pensar e de falar sobre o problema da invasão dos travestis aos espaços femininos, simplesmente porque se pautar na violência masculina sobre as mulheres nos consome. Eu li muita coisa sobre transativismo e teria muito em que contribuir, mas talvez não aqui. Tem muita gente boa falando sobre isso e que não vai parar de falar sobre isso, que está falando melhor sobre isso do que eu e que se sente mais a vontade ao falar sobre isso. Quero falar de feminismo, sim, de estrutura, de patriarcado, mas mais em primeira pessoa.
+
+Eu, daqui e por enquanto, farei, como nunca antes tive coragem, uma linha mais egocêntrica, mas sem me perder na egotrip. Tem muita gente que fala muito sobre si falando sobre os outros. Quero falar mais de mim e também sobre coisas que vão torcer narizes. Sinto falta das provocações. Já passei quase 30 anos contendo o que deveria ou não falar. O retorno de saturno tem de servir de alguma coisa para essa escorpiana. Também pretendo voltar a traduzir coisas, oferecer a vocês materiais de boa qualidade, inéditos e gratuitos, feitas por mãos humanas e com falhas. Sem a perfeição insossa de inteligências artificiais utilizadas sem crivo e bom senso.
+
+No mais, que nesse ciclo eu consiga trazer para cá o melhor do pior de mim. Mulher que sou, com cada contradição, defeito e um bocado de mau caratismo quando necessário.
+
+Agradeço a todo mundo que está lendo. Nos vemos por aí.
+
+Um abraço,
+
+Ana C.
